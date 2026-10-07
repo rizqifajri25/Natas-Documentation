@@ -6,7 +6,7 @@ Mendapatkan password untuk level Natas 01.
 
 ## 🔎 Initial Analysis
 
-Pada level ini, mungkin bisa dibilang adalah level untuk pemanasan yang dimana untuk menemukan password di level ini cukup masuk dev tools (F12) pada browser dan lihat di comment section dimana disitu tertulis <!--The password for natas1 is scfWG6.............. -->, yang dimana sebagian password akan saya sensor karena bersifat credential key.
+Pada level ini, mungkin bisa dibilang adalah level untuk pemanasan yang dimana untuk menemukan password di level ini cukup masuk dev tools (F12) pada browser dan lihat di comment section dimana disitu tertulis "The password for natas1 is scfWG6..............", yang dimana sebagian password akan saya sensor karena bersifat credential key.
 
 ## 🧠 Vulnerability / Concept
 

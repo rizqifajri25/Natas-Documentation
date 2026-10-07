@@ -24,4 +24,4 @@ Hal penting yang dipelajari:
 
 Bagian yang menarik:
 
-Karena rightclicking di blok dan tidak bisa melakukan rightclicking, maka hal pertama yang saya lakukan adalah mencari tau cara untuk melihat source code selain dari rightclicking, lalu saya menemukan cara " CTRL + U ", dengan begitu maka akan menampilkan source code website tersebut tanpa harus rightclicking dan disitu saya menemukan <!--The password for natas2 is vsDOxoX..................... --> pada comment section yang dimana persis seperti natas00 bisa kita lihat password untuk level selanjutnya ada di comment section.
+Karena rightclicking di blok dan tidak bisa melakukan rightclicking, maka hal pertama yang saya lakukan adalah mencari tau cara untuk melihat source code selain dari rightclicking, lalu saya menemukan cara " CTRL + U ", dengan begitu maka akan menampilkan source code website tersebut tanpa harus rightclicking dan disitu saya menemukan "The password for natas2 is vsDOxoX....................."  pada comment section yang dimana persis seperti natas00 bisa kita lihat password untuk level selanjutnya ada di comment section.
